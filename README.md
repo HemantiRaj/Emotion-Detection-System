@@ -1,5 +1,5 @@
 # Emotion-Detection-System
-Overview
+                                            Overview
 
 A real-time emotion detection system that analyzes facial expressions using deep learning and computer vision. The system classifies emotions (Happy 😊, Sad 😢, Angry 😠, etc.) from live webcam feed and provides an interactive visualization.
 
@@ -44,6 +44,8 @@ Install dependencies:
 
 pip install -r requirements.txt
 Download pre-trained model:
+![Screenshot (16)](https://github.com/user-attachments/assets/847b4a79-3f8b-4b7e-b835-d177f06ee8b6)
+![Screenshot 2025-04-13 001832](https://github.com/user-attachments/assets/6367d77a-f8f6-4560-9787-0ad59edd5dab)
 
 
 Run the application:
