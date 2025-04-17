@@ -1,5 +1,6 @@
 # Emotion-Detection-System
 Overview
+
 A real-time emotion detection system that analyzes facial expressions using deep learning and computer vision. The system classifies emotions (Happy 😊, Sad 😢, Angry 😠, etc.) from live webcam feed and provides an interactive visualization.
 
 ✨ Key Features
@@ -34,23 +35,19 @@ pip package manager
 Installation
 Clone the repository:
 
-bash
 
-git clone https://github.com/yourusername/emotion-detection.git
+
+git clone https://github.com/HemantiRaj/Emotion-Detection-System
 cd emotion-detection
 Install dependencies:
 
-bash
+
 pip install -r requirements.txt
 Download pre-trained model:
 
-bash
-wget https://example.com/model.h5 -O model/model.h5
-Usage
 
 Run the application:
 
 streamlit run inference.py
-Access the web interface at http://localhost:8501
 
 Allow camera access when prompted
