@@ -28,14 +28,9 @@ NumPy	Numerical computations
 Prerequisites
 Python 3.8+
 
-Webcam
-
-pip package manager
 
 Installation
 Clone the repository:
-
-
 
 git clone https://github.com/HemantiRaj/Emotion-Detection-System
 cd emotion-detection
@@ -44,12 +39,16 @@ Install dependencies:
 
 pip install -r requirements.txt
 Download pre-trained model:
-![Screenshot (16)](https://github.com/user-attachments/assets/847b4a79-3f8b-4b7e-b835-d177f06ee8b6)
-![Screenshot 2025-04-13 001832](https://github.com/user-attachments/assets/6367d77a-f8f6-4560-9787-0ad59edd5dab)
 
 
-Run the application:
+         Run the application:
 
 streamlit run inference.py
 
 Allow camera access when prompted
+
+![Screenshot (16)](https://github.com/user-attachments/assets/09a9a269-9b1e-4d74-9779-6d9cc9524527)
+
+![Screenshot 2025-04-13 001832](https://github.com/user-attachments/assets/f2ce39c5-dc57-4b8b-ac61-789f18e4e91d)
+
+
