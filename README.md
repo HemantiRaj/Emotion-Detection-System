@@ -37,9 +37,19 @@ cd emotion-detection
 Install dependencies:
 
 
-pip install -r requirements.txt
-Download pre-trained model:
+pip install mediapipe, 
 
+pip install numpy,
+
+pip install cv2
+
+pip install os
+
+pip install tensorflow
+
+pip install keras
+
+pip install mediapipe
 
          Run the application:
 
