@@ -51,11 +51,14 @@ pip install keras
 
          Run the application:
 
-streamlit run inference.py
+python run data_collection.py
 
 Allow camera access when prompted
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/09a9a269-9b1e-4d74-9779-6d9cc9524527)
+
+
+     python run inference.py
 
 ![Screenshot 2025-04-13 001832](https://github.com/user-attachments/assets/f2ce39c5-dc57-4b8b-ac61-789f18e4e91d)
 
