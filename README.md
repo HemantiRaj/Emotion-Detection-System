@@ -49,8 +49,6 @@ pip install tensorflow
 
 pip install keras
 
-pip install mediapipe
-
          Run the application:
 
 streamlit run inference.py
