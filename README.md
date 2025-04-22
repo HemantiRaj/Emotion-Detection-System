@@ -8,8 +8,6 @@ Real-time facial emotion detection (7 basic emotions)
 
 point facial landmark tracking using MediaPipe
 
-CNN-LSTM hybrid model for improved accuracy
-
 Streamlit-based web interface
 
 Privacy-focused (no data leaves your device)
