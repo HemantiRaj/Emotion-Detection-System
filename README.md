@@ -6,7 +6,7 @@ A real-time emotion detection system that analyzes facial expressions using deep
 ✨ Key Features
 Real-time facial emotion detection (7 basic emotions)
 
-468-point facial landmark tracking using MediaPipe
+point facial landmark tracking using MediaPipe
 
 CNN-LSTM hybrid model for improved accuracy
 
